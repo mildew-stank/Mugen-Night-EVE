@@ -1,0 +1,7 @@
+just replace or add to your system.def this:
+
+fight = evefight/evefight.def
+^Custom portrait.
+
+fight = evefight/evefight_default_portraits.def
+^Normal portrait
